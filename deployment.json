@@ -1,0 +1,9 @@
+{
+  "version": "v1.1.0",
+  "sourceRepository": "Zuriel0/communications-electronics-portfolio",
+  "sourceCommit": "d4b92df0c28415098862333e491d2552efe594d0",
+  "sourceTag": "v1.1.0",
+  "entry": "/assets/index-BTWOikn6.js",
+  "artifactSHA256": "50b5de9969fb10e0b5c6a8bf19fa7cccefcb1a96296e19d4489d28e8b75dbd0b",
+  "artifactHashMethod": "SHA-256 of sorted compact JSON path-to-SHA256 map, excluding deployment.json"
+}
