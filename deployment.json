@@ -1,9 +1,9 @@
 {
-  "version": "v1.1.0",
+  "version": "v1.2.1",
   "sourceRepository": "Zuriel0/communications-electronics-portfolio",
-  "sourceCommit": "d4b92df0c28415098862333e491d2552efe594d0",
-  "sourceTag": "v1.1.0",
-  "entry": "/assets/index-BTWOikn6.js",
-  "artifactSHA256": "50b5de9969fb10e0b5c6a8bf19fa7cccefcb1a96296e19d4489d28e8b75dbd0b",
+  "sourceCommit": "a2a6b1e725ccfc9c6c08ddf6ee7882be2703ac58",
+  "sourceTag": "v1.2.1",
+  "entry": "/assets/index-DT8od2Cy.js",
+  "artifactSHA256": "4e467a47ea95d52f0188a2137a32add65784b2ae9a6fc83cb1201e139da03f8c",
   "artifactHashMethod": "SHA-256 of sorted compact JSON path-to-SHA256 map, excluding deployment.json"
 }
